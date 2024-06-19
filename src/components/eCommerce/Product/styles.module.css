@@ -1,0 +1,21 @@
+.maximumNotice {
+  font-size: 12px;
+  margin-bottom: 7px;
+}
+
+.wishlist {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  background-color: white;
+  width: 28px;
+  height: 28px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.wishlist:hover {
+  box-shadow: 0 0 10px -3px rgb(0, 0, 0, 0.4);
+}
